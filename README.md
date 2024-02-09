@@ -13,7 +13,7 @@ Google Sheets: The foundation of the project, serving as the primary platform fo
 
 Google Apps Script: Custom scripts are written to automate and enhance the functionality of the to-do list within Google Sheets.
 
-Google Calender: Integration with Google Calendar for synchronized scheduling and reminders.
+Google Calender: Integration with Google Calender for synchronized scheduling and reminders.
 
 Project Goal
 
