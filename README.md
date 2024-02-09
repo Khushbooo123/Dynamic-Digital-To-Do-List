@@ -1,7 +1,7 @@
 # Dynamic-Digital-To-Do-List
 Dynamic Digital To-Do List using Google Sheets | Personal Project
 
-![todo](https://github.com/Khushbooo123/Dynamic-Digital-To-Do-List/assets/52238176/27e0ed0b-1dfa-4c38-8b2a-b38dbb766732)
+![Todo](https://github.com/Khushbooo123/Dynamic-Digital-To-Do-List/assets/52238176/5a6074a4-4e3b-4bda-a29d-6a3543aac96a)
 
 Project Description
 
