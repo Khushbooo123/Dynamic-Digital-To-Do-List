@@ -3,11 +3,11 @@ Dynamic Digital To-Do List using Google Sheets | Personal Project
 
 ![Todo](https://github.com/Khushbooo123/Dynamic-Digital-To-Do-List/assets/52238176/5a6074a4-4e3b-4bda-a29d-6a3543aac96a)
 
-Project Description
+# Project Description
 
 The Dynamic Digital To-Do List using Google Sheets is a personal project aimed at creating a versatile and interactive to-do list system using the powerful combination of Google Sheets and Google Apps Script. This project leverages the flexibility of a spreadsheet and the automation capabilities of Google Apps Script to provide a dynamic and user-friendly to-do list experience.
 
-Tools Used
+# Tools Used
 
 Google Sheets: The foundation of the project, serving as the primary platform for task organization and management.
 
@@ -15,11 +15,11 @@ Google Apps Script: Custom scripts are written to automate and enhance the funct
 
 Google Calender: Integration with Google Calender for synchronized scheduling and reminders.
 
-Project Goal
+# Project Goal
 
 The goal of this project is to develop a user-friendly, dynamic to-do list that adapts to changing priorities and schedules. By utilizing the capabilities of Google Sheets and Apps Script, the project aims to provide an efficient and flexible task management solution. The integration with Google Calendar ensures timely reminders and seamless coordination between your to-do list and scheduled events.
 
-Additional Details:
+# Additional Details:
 
 The to-do list allows users to prioritize tasks, set deadlines, and mark completion status.
 
